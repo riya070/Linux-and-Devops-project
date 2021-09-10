@@ -1,5 +1,5 @@
 # Linux-and-Devops-project
 
-Download and extract the file
-Open the directory and select open in terminal
-Type "make" and enter, it will run.
+1. Download and extract the file
+2. Open the directory and select open in terminal
+3. Type "make" and enter, it will run.
